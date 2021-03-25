@@ -1,9 +1,8 @@
 # Employee-Organizer(OOP)
-python OOP project that manage information of employees. (attendance, personal details and shifts).
+**Final project** for *She Codes Python course*. 
+OOP project that manage information of employees. (attendance, personal details and shifts).
 
 - used from commend line.
-
-**Final project** for *She Codes Python course*. 
 
 # Features:
 - oop
