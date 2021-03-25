@@ -5,7 +5,7 @@ python OOP project that manage information of employees. (attendance, personal d
 
 **Final project** for *She Codes Python course*. 
 
-#Features:
+# Features:
 - oop
 - attandence
 - employee details
